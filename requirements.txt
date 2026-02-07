@@ -1,0 +1,6 @@
+pyrogram
+requests
+beautifulsoup4
+lxml
+python-dotenv
+aiohttp
