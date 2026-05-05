@@ -1,6 +1,6 @@
-pyrogram
-requests
-beautifulsoup4
-lxml
-python-dotenv
-aiohttp
+pyrogram==2.0.106
+requests==2.31.0
+beautifulsoup4==4.12.3
+tgcrypto==1.2.5
+aiohttp==3.9.3
+psutil
